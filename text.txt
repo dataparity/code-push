@@ -1,0 +1,47 @@
+From: MOD Administrator <admin@M365x86481006.OnMicrosoft.com>
+To: MOD Administrator <admin@M365x86481006.OnMicrosoft.com>
+Subject: test
+Thread-Topic: test
+Thread-Index: AQHZS8PFTSEr78JV7ku+59ovBkkoDg==
+Date: Tue, 28 Feb 2023 22:27:37 +0000
+Message-ID:
+	<MW4PR06MB78846DEDAE3EFFE35A5103DFA1AC9@MW4PR06MB7884.namprd06.prod.outlook.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-ModifySensitivityLabel:
+	defa4170-0d19-0005-0001-bc88714345d2;defa4170-0d19-0005-0000-bc88714345d2
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+	MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_Enabled=True;MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_SiteId=0a3e8fff-e651-4456-b3fe-d59a4b8d9b78;MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_SetDate=2023-02-28T22:27:36.947Z;MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_Name=Personal;MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_ContentBits=0;MSIP_Label_defa4170-0d19-0005-0000-bc88714345d2_Method=Privileged;
+Content-Type: multipart/alternative;
+	boundary="_000_MW4PR06MB78846DEDAE3EFFE35A5103DFA1AC9MW4PR06MB7884namp_"
+MIME-Version: 1.0
+
+--_000_MW4PR06MB78846DEDAE3EFFE35A5103DFA1AC9MW4PR06MB7884namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+test
+
+--_000_MW4PR06MB78846DEDAE3EFFE35A5103DFA1AC9MW4PR06MB7884namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);" class=
+=3D"elementToProof">
+test</div>
+</body>
+</html>
+
+--_000_MW4PR06MB78846DEDAE3EFFE35A5103DFA1AC9MW4PR06MB7884namp_--

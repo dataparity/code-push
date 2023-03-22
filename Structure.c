@@ -32,4 +32,4 @@ int main() {
    printf("\nSum of distances = %d\'-%.1f\"", result.feet, result.inch);
    return 0;
 }
-test
+test1

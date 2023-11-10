@@ -1,4 +1,5 @@
 #include <stdio.h>
+/////
 int main() {
   int a[10][10], transpose[10][10], r, c;
   printf("Enter rows and columns: ");
